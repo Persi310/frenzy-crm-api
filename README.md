@@ -6,6 +6,7 @@ API REST para gestión de leads.
 
 ## Instalación
 
+```bash
 composer install
 cp .env.example .env
 php artisan key:generate
